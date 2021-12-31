@@ -1,6 +1,10 @@
 # Advenriver
 
-This contains challenges and codes I did to learn and practice Data Structure and Algorithms principles in Javascript to become a better Engineer. 
+Advenriver is a project I created for one of my first web design classes while I was at college. I decided to redo the website and improve it with all the knowledge and skills I have gain through hard study and practice
+
+- Old Site - [live](https://danielguzmanprojects.glitch.me/index.html)
+
+- Live Website - [Advenriver](https://dannyguzman31.github.io/Advenriver/)
 
 ## Table of contents
 
